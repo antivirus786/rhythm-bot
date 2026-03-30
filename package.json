@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@snazzah/davey": "^0.1.10",
+    "discord.js": "^14.25.1",
+    "pretty-ms": "^7.0.1",
+    "shoukaku": "^4.3.0",
+    "sodium-native": "^5.1.0"
+  }
+}
